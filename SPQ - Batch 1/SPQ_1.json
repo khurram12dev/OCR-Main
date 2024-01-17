@@ -1,0 +1,1213 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "SPQ_1"
+        }
+    },
+    "_via_img_metadata": {
+        "SPQ_1.png": {
+            "filename": "SPQ_1.png",
+            "size": 1084825,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3064,
+                        "y": 208,
+                        "width": 31,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "text": "insurance_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 258,
+                        "width": 36,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "text": "matter_affecting_title_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2876,
+                        "y": 374,
+                        "width": 35,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "text": "plumbing_fixures_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 373,
+                        "width": 34,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "text": "plumbing_fixures_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 429,
+                        "width": 36,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "text": "material_fact_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3060,
+                        "y": 426,
+                        "width": 37,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "text": "material_fact_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 662,
+                        "y": 498,
+                        "width": 38,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "check_attached",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2874,
+                        "y": 795,
+                        "width": 40,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "alteration_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3059,
+                        "y": 791,
+                        "width": 42,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "alteration_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2875,
+                        "y": 904,
+                        "width": 40,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "text": "alteration_renewable_energy_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 903,
+                        "width": 39,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "alteration_renewable_energy_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2875,
+                        "y": 1019,
+                        "width": 38,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "ongoing_maintainance_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 1013,
+                        "width": 40,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "text": "ongoing_maintainance_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2874,
+                        "y": 1071,
+                        "width": 44,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "text": "property_being_painted_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3063,
+                        "y": 1070,
+                        "width": 40,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "text": "property_being_painted_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 1125,
+                        "width": 37,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "property_built_before_1978_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3060,
+                        "y": 1127,
+                        "width": 38,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "property_built_before_1978_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2558,
+                        "y": 1240,
+                        "width": 37,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "any_renovation_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2737,
+                        "y": 1241,
+                        "width": 46,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "any_renovation_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2560,
+                        "y": 1346,
+                        "width": 35,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "enviroment_protection_agency_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2737,
+                        "y": 1349,
+                        "width": 41,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "enviroment_protection_agency_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 595,
+                        "y": 1401,
+                        "width": 2603,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "text": "7_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2872,
+                        "y": 1761,
+                        "width": 39,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "defect_in_ac_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 1758,
+                        "width": 38,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "text": "defect_in_ac_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2875,
+                        "y": 1871,
+                        "width": 38,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "lease_on_property_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3060,
+                        "y": 1871,
+                        "width": 40,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "lease_on_property_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2872,
+                        "y": 1925,
+                        "width": 47,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "text": "septic_system_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3060,
+                        "y": 1927,
+                        "width": 45,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "text": "septic_system_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 608,
+                        "y": 1981,
+                        "width": 2589,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "text": "8_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2874,
+                        "y": 2336,
+                        "width": 41,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "financial_relief_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3063,
+                        "y": 2334,
+                        "width": 35,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "financial_relief_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2543,
+                        "y": 2441,
+                        "width": 37,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "text": "federal_flood_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2738,
+                        "y": 2439,
+                        "width": 32,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "federal_flood_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 605,
+                        "y": 2690,
+                        "width": 2593,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "text": "9_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2880,
+                        "y": 2993,
+                        "width": 40,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "water_instrusion_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3058,
+                        "y": 2991,
+                        "width": 44,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "water_instrusion_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2882,
+                        "y": 3049,
+                        "width": 35,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "infestation_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 3046,
+                        "width": 46,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "infestation_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2876,
+                        "y": 3164,
+                        "width": 44,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "text": "river_stream_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 3155,
+                        "width": 37,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "river_stream_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 595,
+                        "y": 3223,
+                        "width": 2603,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "text": "10_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2871,
+                        "y": 3398,
+                        "width": 47,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "pets_in_property_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3063,
+                        "y": 3407,
+                        "width": 41,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "pets_in_property_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 3459,
+                        "width": 40,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "problems_with_life_stock_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3066,
+                        "y": 3458,
+                        "width": 34,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "text": "problems_with_life_stock_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2874,
+                        "y": 3571,
+                        "width": 45,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "past_or_present_odors_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 3566,
+                        "width": 44,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "past_or_present_odors_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 3626,
+                        "width": 35,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "eradication_of_pets_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 3626,
+                        "width": 44,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "eradication_of_pets_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2874,
+                        "y": 3926,
+                        "width": 41,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "survey_boundary_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 3926,
+                        "width": 44,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "survey_boundary_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 600,
+                        "y": 3741,
+                        "width": 2594,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "text": "11_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 213,
+                        "width": 32,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "text": "insurance_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2878,
+                        "y": 265,
+                        "width": 35,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "matter_affecting_title_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1336,
+                        "y": 483,
+                        "width": 1862,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "text": "6_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 284,
+                        "y": 2760,
+                        "width": 2914,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "text": "9_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 290,
+                        "y": 3280,
+                        "width": 2899,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "text": "10_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 284,
+                        "y": 3805,
+                        "width": 2920,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "text": "11_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 295,
+                        "y": 2046,
+                        "width": 2898,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "text": "8_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 295,
+                        "y": 1469,
+                        "width": 2908,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "text": "7_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 542,
+                        "width": 2898,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "text": "6_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 295,
+                        "y": 615,
+                        "width": 2908,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "text": "6_explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1778,
+                        "y": 204,
+                        "width": 1084,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "text": "6_H_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1224,
+                        "y": 253,
+                        "width": 1642,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "6_I_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2805,
+                        "y": 310,
+                        "width": 396,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "6_J_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2168,
+                        "y": 422,
+                        "width": 691,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "6_K_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1252,
+                        "y": 791,
+                        "width": 1609,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "7_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1841,
+                        "y": 900,
+                        "width": 1020,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "7_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1888,
+                        "y": 1000,
+                        "width": 968,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "text": "7_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1826,
+                        "y": 1067,
+                        "width": 1033,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "7_D_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2054,
+                        "y": 1124,
+                        "width": 811,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "7_E_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1261,
+                        "y": 1233,
+                        "width": 1287,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "7_E_a_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1169,
+                        "y": 1341,
+                        "width": 1378,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "7_E_b_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1185,
+                        "y": 1757,
+                        "width": 1681,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "8_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1020,
+                        "y": 1868,
+                        "width": 1833,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "8_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1629,
+                        "y": 1917,
+                        "width": 1224,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "8_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 898,
+                        "y": 2988,
+                        "width": 1965,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "10_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2836,
+                        "y": 3055,
+                        "width": 20,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "text": "10_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 732,
+                        "y": 3155,
+                        "width": 2133,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "10_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1330,
+                        "y": 3396,
+                        "width": 1532,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "11_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2293,
+                        "y": 3450,
+                        "width": 570,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "11_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2930,
+                        "y": 3509,
+                        "width": 280,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "11_C_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2674,
+                        "y": 3627,
+                        "width": 187,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "text": "11_D_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 302,
+                        "y": 2328,
+                        "width": 2559,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "9_disaster_relief_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3080,
+                        "y": 2270,
+                        "width": 152,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "9_disaster_relief_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 607,
+                        "y": 2436,
+                        "width": 1926,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "9_federal_flood_explanation",
+                        "tag": "bkankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1715,
+                        "y": 3917,
+                        "width": 1140,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "12_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 368,
+                        "width": 2445,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "6_J_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 3562,
+                        "width": 2445,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "11_C_explanation_2",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text"
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "SPQ_1.png"
+    ]
+}

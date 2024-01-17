@@ -1,0 +1,669 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RPA_2"
+        }
+    },
+    "_via_img_metadata": {
+        "RPA_1.png": {
+            "filename": "RPA_1.png",
+            "size": 1138782,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1494,
+                        "y": 357,
+                        "width": 34,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "text": "G1_seller_credit",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1560,
+                        "y": 346,
+                        "width": 320,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "G1_seller_credit_amount",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1909,
+                        "y": 348,
+                        "width": 120,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "G1_seller_credit_percentage_of_purchase_price",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2825,
+                        "y": 399,
+                        "width": 32,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "G1_seller_credit_or",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2478,
+                        "y": 442,
+                        "width": 695,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "text": "G1_seller_credit_comments",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1952,
+                        "y": 771,
+                        "width": 32,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "text": "H1_verification_of_all_cash",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2086,
+                        "y": 765,
+                        "width": 132,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "H1_verification_of_all_cash_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1952,
+                        "y": 895,
+                        "width": 34,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "text": "H2_verification_of_down_payment_and_closing_cost",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2093,
+                        "y": 884,
+                        "width": 126,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "H2_verification_of_down_payment_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1952,
+                        "y": 1015,
+                        "width": 32,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "text": "H3_verification_of_loan_application",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2088,
+                        "y": 1009,
+                        "width": 128,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "H3_verification_of_loan_application_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1589,
+                        "y": 1224,
+                        "width": 127,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "text": "J_final_verification_of_condition_days_prior_to_COE",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 1293,
+                        "width": 127,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "text": "K_assignment_request_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1610,
+                        "y": 1448,
+                        "width": 131,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "L1_loan_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1612,
+                        "y": 1525,
+                        "width": 128,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "L2_appraisal_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2481,
+                        "y": 1455,
+                        "width": 34,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "L1_no_loan_contingency",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2482,
+                        "y": 1532,
+                        "width": 30,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "text": "L2_no_appraisal_contingency",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 701,
+                        "y": 1691,
+                        "width": 29,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "text": "L2_appraisal",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 772,
+                        "y": 1680,
+                        "width": 526,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "L2_appraisal_purchase_price",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 1754,
+                        "width": 130,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "text": "L3_investigation_of_property",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1618,
+                        "y": 1829,
+                        "width": 126,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "text": "L3_informational_access_to_property",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1616,
+                        "y": 2025,
+                        "width": 123,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "L4_review_of_seller_documents",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 2151,
+                        "width": 127,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "L5_preliminary_report",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1615,
+                        "y": 2275,
+                        "width": 127,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "L6_common_interest_disclosures_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1616,
+                        "y": 2463,
+                        "width": 123,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "text": "L7_review_of_leased_or_liened_items_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2654,
+                        "y": 2429,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "text": "CR-B_attached",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2582,
+                        "y": 2646,
+                        "width": 33,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "text": "CAR_form_COP_attached",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1676,
+                        "y": 2848,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "text": "M1_time_of_possession_AM",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1533,
+                        "y": 2850,
+                        "width": 130,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "text": "M1_time_of_possession",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1802,
+                        "y": 2849,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "M1_time_of_possession_PM",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1506,
+                        "y": 3017,
+                        "width": 30,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "text": "M2_seller_occupied_29_or_fewer_days_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1546,
+                        "y": 3013,
+                        "width": 108,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "text": "M2_seller_occupied_29_or_fewer_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1506,
+                        "y": 3060,
+                        "width": 29,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "M2_seller_occupied_30_or_more_days_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1543,
+                        "y": 3062,
+                        "width": 110,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "text": "M2_seller_occupied_30_or_more_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2111,
+                        "y": 2806,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "text": "M1_time_of_possession_6_PM",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1593,
+                        "y": 3461,
+                        "width": 122,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "N1_seller_delivery_of_documents_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1595,
+                        "y": 3542,
+                        "width": 120,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "text": "N2_sign_and_return_escrow_holder_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1589,
+                        "y": 3666,
+                        "width": 126,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "text": "N3_time_to_pay_fees_for_ordering_hoa_documents",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1593,
+                        "y": 3780,
+                        "width": 124,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "text": "N4_install_smoke_alarm_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 705,
+                        "y": 655,
+                        "width": 28,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "text": "G3_seller_agree_to_pay_obligation_of_buyer",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 392,
+                        "y": 566,
+                        "width": 2789,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "G2_additional_finance_terms_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2481,
+                        "y": 1017,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "H3_prequalification",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2483,
+                        "y": 1072,
+                        "width": 30,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "text": "H3_fully_underwritten_preapproval",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2839,
+                        "y": 1017,
+                        "width": 32,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "text": "H3_preapproval",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1496,
+                        "y": 3139,
+                        "width": 29,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "text": "M3_tenant_occupied_property_addendum_attached",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1495,
+                        "y": 2850,
+                        "width": 30,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "text": "M1_time_of_possession_another_time",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1070,
+                        "y": 511,
+                        "width": 2113,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "text": "G2_additional_finance_terms_1",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RPA_1.png"
+    ]
+}
